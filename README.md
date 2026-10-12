@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Deval
 
-Software engineer at an early-stage startup, shipping full-stack and applied-AI products: React/Next.js and Node/TypeScript on the web side, Python/FastAPI and LangChain/CrewAI on the LLM side, Claude Code every day. UGA M.S. Computer Science (2024). Before that, three and a half years as an SAP consultant at Infosys with Adidas.
+Software engineer at an early-stage startup [AI20Labs](https://www.linkedin.com/company/ai20-labs/), shipping full-stack and applied-AI products: React/Next.js and Node/TypeScript on the web side, Python/FastAPI and LangChain/CrewAI on the LLM side, Claude Code every day. UGA M.S. Computer Science (2024). Before that, three and a half years as an SAP consultant at Infosys with Adidas.
 
 **Recent work (private client repos, happy to walk through them)**
 - AI agents in Python (FastAPI, CrewAI) that read email threads for an AI CRM: summary, deal stage, urgency, financials, drafted replies, with a user-correction feedback loop.
